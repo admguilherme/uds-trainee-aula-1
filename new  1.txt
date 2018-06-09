@@ -1,0 +1,12 @@
+class Main {
+    public static void main(String[] args) {
+
+        String nome = "Guilherme de Sousa";
+        Integer idade = 31;
+        Boolean sexoFeminino = false;
+        Double peso = 65.50;
+
+        System.out.println("Olá meu nome é " +nome +" tenho " +idade+ " anos de idade.");
+
+    }
+}

@@ -1,0 +1,15 @@
+
+class Main {
+    public static void main(String[] args) {
+
+        Integer idade = 31;
+
+        if (idade <= 18) {
+            System.out.println("Novinho");
+        } else if (idade <= 30) {
+            System.out.println("Tiozinho");
+        } else {
+            System.out.println("Tiozão");
+        }
+    }
+}	
